@@ -27,3 +27,14 @@ We show that integrating visual signals—even when synthesized rather than user
 
 ---
 
+## 📖 Citation
+If you find this work useful in your research, please cite it as follows:
+
+```bibtex
+@inproceedings{soufleri2025enhancing,
+  title={Enhancing Stress Detection on Social Media Through Multi-Modal Fusion of Text and Synthesized Visuals},
+  author={Soufleri, Efstathia and Ananiadou, Sophia},
+  booktitle={Proceedings of the 24th Workshop on Biomedical Language Processing},
+  pages={34--43},
+  year={2025}
+}
