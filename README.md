@@ -1,7 +1,6 @@
 # Enhancing Stress Detection on Social Media Through Multi-Modal Fusion of Text and Synthesized Visuals
 
 [![Paper](https://img.shields.io/badge/Paper-BioNLP%202025-blue)](https://aclanthology.org/2025.bionlp-1.4.pdf)  
-[![Conference](https://img.shields.io/badge/Venue-BioNLP%202025-9cf)](https://aclanthology.org/events/biolp-2025/)  
 
 This repository contains the code and experimental setup for the paper:  
 
